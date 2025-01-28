@@ -34,7 +34,7 @@ func main() {
 	numero := 10
 	numero++ // numero = numero + 1
 	fmt.Println(numero)
-	numero += 10 // numero = numero + 15
+	numero += 10 // numero = numero + 10
 	fmt.Println(numero)
 	numero-- // numero = numero - 1
 	fmt.Println(numero)
