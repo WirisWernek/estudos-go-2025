@@ -1,0 +1,14 @@
+mode: set
+introducao-testes/main.go:8.13,17.2 6 0
+introducao-testes/enderecos/enderecos.go:11.45,17.36 4 0
+introducao-testes/enderecos/enderecos.go:17.36,18.65 1 0
+introducao-testes/enderecos/enderecos.go:18.65,20.4 1 0
+introducao-testes/enderecos/enderecos.go:23.2,23.20 1 0
+introducao-testes/enderecos/enderecos.go:23.20,26.3 2 0
+introducao-testes/enderecos/enderecos.go:28.2,28.25 1 0
+introducao-testes/enderecos/enderecos.go:11.45,17.36 4 1
+introducao-testes/enderecos/enderecos.go:17.36,18.65 1 1
+introducao-testes/enderecos/enderecos.go:18.65,20.4 1 1
+introducao-testes/enderecos/enderecos.go:23.2,23.20 1 1
+introducao-testes/enderecos/enderecos.go:23.20,26.3 2 1
+introducao-testes/enderecos/enderecos.go:28.2,28.25 1 1
